@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching & outreach
 description: Physics and mathematics tutoring, mentoring, and academic outreach.
 nav: true
-nav_order: 6
+nav_order: 2
 calendar: true
 ---
 
