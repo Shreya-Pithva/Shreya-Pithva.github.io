@@ -55,4 +55,16 @@ A collection of paintings and sketches.
   <figcaption style="margin-top: 8px; text-align: center;">Milky Way</figcaption>
 </figure>
 
+<figure style="margin: 0;">
+  <img src="/assets/img/paintings/G_3.jpg" alt="Painting" style="width: 100%; height: auto; border-radius: 8px;">
+</figure>
+
+<figure style="margin: 0;">
+  <img src="/assets/img/paintings/G_4.jpg" alt="Painting" style="width: 100%; height: auto; border-radius: 8px;">
+</figure>
+
+<figure style="margin: 0;">
+  <img src="/assets/img/paintings/G_5.jpg" alt="Painting" style="width: 100%; height: auto; border-radius: 8px;">
+</figure>
+
 </div>
