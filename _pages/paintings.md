@@ -2,9 +2,12 @@
 layout: page
 permalink: /paintings/
 title: Paintings
-description: A collection of my paintings and sketches
+description: ""
 nav: false
 ---
+<p style="font-size: 1.3em; margin-top: -1rem;">
+A collection of paintings and sketches.
+</p>
 
 > “I found I could say things with color and shapes that I couldn’t say any other way—things I had no words for.”
 >
