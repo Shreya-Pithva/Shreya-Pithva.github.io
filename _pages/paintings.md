@@ -56,15 +56,18 @@ A collection of paintings and sketches.
 </figure>
 
 <figure style="margin: 0;">
-  <img src="/assets/img/paintings/G_3.jpg" alt="Painting" style="width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/paintings/G_3.jpg" alt="Portrait  I" style="width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 8px; text-align: center;">Portrait Study I</figcaption>
 </figure>
 
 <figure style="margin: 0;">
-  <img src="/assets/img/paintings/G_4.jpg" alt="Painting" style="width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/paintings/G_4.jpg" alt="Portrait  II" style="width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 8px; text-align: center;">Portrait Study II</figcaption>
 </figure>
 
 <figure style="margin: 0;">
-  <img src="/assets/img/paintings/G_5.jpg" alt="Painting" style="width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/paintings/G_5.jpg" alt="Portrait  III" style="width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 8px; text-align: center;">Portrait Study III</figcaption>
 </figure>
 
 </div>
