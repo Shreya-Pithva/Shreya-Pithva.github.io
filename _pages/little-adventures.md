@@ -21,18 +21,21 @@ When I joined IISc, the sport that I found most intriguing was snooker. I had ne
 Snooker has helped me build focus and patience. I was fortunate enough to win medals in mixed doubles and women’s doubles.
 </p>
 
-<div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Shreya_snooker_2.png" title="Playing snooker at IISc" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/shreya_snooker_3.jpeg" title="Playing snooker at IISc" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; margin-top: 24px;">
+
+  <figure style="margin: 0;">
+    <img src="/assets/img/Shreya_snooker_2.png" alt="Playing snooker at IISc" style="width: 100%; height: auto; border-radius: 8px;">
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/assets/img/shreya_snooker_3.jpeg" alt="Playing snooker at IISc" style="width: 100%; height: auto; border-radius: 8px;">
+  </figure>
+
 </div>
 
-<div class="caption">
-  A few moments from playing snooker at IISc.
-</div>
+<p style="text-align: center; margin-top: 8px;">
+A few moments from playing snooker at IISc.
+</p>
 
 
 
