@@ -2,7 +2,7 @@
 layout: page
 permalink: /paintings/
 title: Paintings
-description: A collection of my paintings and sketches.
+description:'<span style="font-size: 1.15em;">A collection of my paintings and sketches.</span>'
 nav: false
 ---
 
