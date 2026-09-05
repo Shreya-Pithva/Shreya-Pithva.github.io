@@ -6,7 +6,7 @@ subtitle: MS Physics student, <a href="https://iisc.ac.in/" target="_blank">Indi
 
 profile:
   align: right
-  image: "shreya_photo_1.jpeg"
+  image: "Shreya_photo_1.jpeg"
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Indian Institute of Science (IISc)</p>
