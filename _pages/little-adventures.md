@@ -8,7 +8,7 @@ nav: false
 ## Snooker
 
 <p style="font-size: 1.15em;">
-When I joined IISc, the sport that I found most intriguing was snooker. I had never seen snooker or billiards before. I started playing regularly, and I found it very relatable to collision physics, which made me love it even more.
+When I joined IISc, the sport that I found most intriguing was snooker. I had never seen snooker or billiards before in my life. I started playing regularly, and I found it very relatable to collision physics, which made me love it even more.
 </p>
 
 <p style="font-size: 1.15em;">
