@@ -18,7 +18,7 @@ When I joined IISc, the sport that I found most intriguing was snooker. I had ne
 </p>
 
 <p style="font-size: 1.15em;">
-Snooker has helped me build focus and patience. I was fortunate enough to win medals in mixed doubles and women’s doubles.
+Snooker has helped me build focus and patience. I was fortunate enough to win medals in mixed doubles and women’s doubles tournaments.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; margin-top: 24px;">
