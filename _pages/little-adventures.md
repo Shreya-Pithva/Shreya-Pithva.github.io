@@ -55,3 +55,27 @@ Apart from academics, I enjoy travelling solo and exploring different places. I 
 This page is where I will share some of my favourite moments from travelling, trekking, and the night sky. I also enjoy astrophotography, provided that I have a good phone or the required equipment, and simply spending time under a beautiful, mesmerising night sky: looking at twinkling stars, planets, star clusters, craters on the Moon, and, of course, satellites and aeroplanes.
 </p>
 
+
+<figure style="margin: 24px 0 0;">
+  <img src="/assets/img/Little-adventure/Trek_photo_1.jpg" alt="Trekking in the Himalayas" style="width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 8px; text-align: center;">A trek in the Himalayas.</figcaption>
+</figure>
+
+<p style="font-size: 1.15em; margin-top: 16px;">
+This photograph is from my trek in Himachal Pradesh. Being surrounded by vast mountains, quiet valleys, and fresh air was one of the most peaceful experiences I have had. The journey included moments of exhaustion, cold, and uncertainty, but every view at the top made it completely worth it.
+</p>
+
+<p style="font-size: 1.15em;">
+I wrote more about this experience for <em>Quarks</em>, the undergraduate magazine at IISc:
+<a href="https://quarks.ug.iisc.ac.in/trekking-to-heaven/" target="_blank" rel="noopener noreferrer"><strong>Read “Trekking to Heaven”</strong></a>.
+</p>
+
+
+
+
+
+
+
+
+
+
