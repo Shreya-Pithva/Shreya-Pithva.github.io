@@ -13,3 +13,7 @@ More Artwork will be added soon.
 ## Forest on Mini Canvas
 
 ![Mini Forest painting](/assets/img/paintings/mini_forest_canvas.jpeg)
+
+## Lion Sketch
+
+![Lion sketch](/assets/img/paintings/Lion_sketch.jpg)
