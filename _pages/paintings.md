@@ -10,6 +10,6 @@ I have enjoyed painting and sketching since childhood. This page is a small coll
 
 More Artwork will be added soon.
 
-## Mini Forest
+## Forest on Mini Canvas
 
 ![Mini Forest painting](/assets/img/paintings/mini_forest_canvas.jpeg)
