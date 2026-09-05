@@ -2,9 +2,15 @@
 layout: page
 permalink: /little-adventures/
 title: Little Adventures
-description: Travel, snooker, and the small moments beyond academics.
+description: ""
 nav: false
 ---
+
+<p style="font-size: 1.3em; margin-top: -1rem;">
+Travel, snooker, and the small moments beyond academics.
+</p>
+
+
 ## Snooker
 
 <p style="font-size: 1.15em;">
