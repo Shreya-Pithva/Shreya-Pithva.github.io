@@ -6,7 +6,9 @@ description: A collection of my paintings and sketches.
 nav: false
 ---
 
->I have enjoyed painting and sketching since childhood. This page is a small collection of my work. More artwork will be added soon.
+> “I found I could say things with color and shapes that I couldn’t say any other way—things I had no words for.”
+>
+> — [**Georgia O’Keeffe**](https://en.wikipedia.org/wiki/Georgia_O%27Keeffe), from the [Newport Art Museum](https://newportartmuseum.org/exhibitions/okeeffe/)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px;">
 
