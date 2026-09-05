@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching & Outreach
-description: Physics and Mathematics tutoring 
+description: ""
 nav: true
 nav_order: 2
 calendar: true
