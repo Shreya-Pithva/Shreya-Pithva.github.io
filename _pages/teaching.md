@@ -1,18 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching & outreach
-description: Physics and mathematics tutoring, mentoring, and academic outreach.
+title: Teaching & Outreach
+description: Physics and Mathematics tutoring 
 nav: true
 nav_order: 2
 calendar: true
 ---
 
-## Physics and Mathematics Tutor, [QUAZAR](https://www.quazared.com/)
+### Physics and Mathematics Tutor at [QUAZAR](https://www.quazared.com/)
 
 *February 2026 – Present*
 
-I tutor students in physics and mathematics, emphasizing conceptual understanding and problem-solving skills. I have completed over 100 hours of teaching and mentoring through QUAZAR. I also mentor students preparing for competitive examinations, including NSEP and Physics Olympiad-level examinations.
+I enjoy sharing what I learn with others. I believe teaching helps us understand concepts more deeply and develop critical thinking. It is not a one-way flow of knowledge; it is a journey in which both the student and the teacher learn from each other.
+
+I focus on building a strong foundation and try to make ideas practical and relatable for students. I teach in my free time alongside my academic work. The questions students ask are often profound, and they encourage me to think about problems in entirely new ways.
+
+I teach high school physics and mathematics, including the Class 11 and 12 syllabus and preparation for the National Standard Examination in Physics (NSEP).
 
 ## Academic Outreach
 
