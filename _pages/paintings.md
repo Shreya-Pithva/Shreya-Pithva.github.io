@@ -20,4 +20,25 @@ nav: false
     <figcaption style="margin-top: 8px; text-align: center;">Lion Sketch</figcaption>
   </figure>
 
+  <figure style="margin: 0;">
+    <img src="/assets/img/paintings/G_1.jpg" alt="Portrait Sketch" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">Portrait Sketch</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/assets/img/paintings/G_2.jpg" alt="Face Sketch" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">Face Sketch</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/assets/img/paintings/Landscape.jpg" alt="Landscape" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">Landscape</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/assets/img/paintings/house_in_sky.jpg" alt="House in the Sky" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">House in the Sky</figcaption>
+  </figure>
+  
+
 </div>
