@@ -2,7 +2,7 @@
 layout: page
 permalink: /paintings/
 title: Paintings
-description: 
+description: A collection of my paintings and sketches.
 nav: false
 ---
 
@@ -13,6 +13,11 @@ nav: false
   <figure style="margin: 0;">
     <img src="/assets/img/paintings/mini_forest_canvas.jpeg" alt="Forest on Mini Canvas" style="width: 100%; height: auto; border-radius: 8px;">
     <figcaption style="margin-top: 8px; text-align: center;">Forest on Mini Canvas</figcaption>
+  </figure>
+
+  <figure style="margin: 0;">
+    <img src="/assets/img/paintings/mount_fujji.jpg" alt="Mount Fuji with Cherry Blossoms" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">Mount Fuji with Cherry Blossoms</figcaption>
   </figure>
 
   <figure style="margin: 0;">
