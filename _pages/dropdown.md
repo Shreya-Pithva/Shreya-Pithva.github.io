@@ -10,5 +10,7 @@ children:
   - title: divider
   - title: Paintings
     permalink: /paintings/
+  - title: Little Adventures
+    permalink: /little-adventures/
   
 ---
