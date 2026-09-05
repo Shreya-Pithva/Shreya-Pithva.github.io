@@ -2,11 +2,11 @@
 layout: page
 permalink: /paintings/
 title: Paintings
-description: A collection of my paintings and sketches.
+description: 
 nav: false
 ---
 
-I have enjoyed painting and sketching since childhood. This page is a small collection of my work. More artwork will be added soon.
+>I have enjoyed painting and sketching since childhood. This page is a small collection of my work. More artwork will be added soon.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px;">
 
