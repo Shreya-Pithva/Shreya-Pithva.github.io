@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MS Physics student, <a href="https://iisc.ac.in/" target="_blank">Indian Institute of Science (IISc)</a>, Bangalore
 
