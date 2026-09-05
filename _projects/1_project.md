@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Quantum Non-Demolition counting in a cavity 
 description: with background image
 img: assets/img/12.jpg
 importance: 1
