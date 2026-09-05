@@ -34,7 +34,8 @@ Snooker has helped me build focus and patience. I was fortunate enough to win me
 </div>
 
 <p style="text-align: center; margin-top: 8px;">
-A few moments from playing snooker at IISc.
+This is me playing Snooker. I know photos could have been better !!!!
+I will try getting good ones before I leave the campus.
 </p>
 
 
