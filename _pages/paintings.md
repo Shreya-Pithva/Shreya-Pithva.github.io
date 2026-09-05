@@ -2,13 +2,12 @@
 layout: page
 permalink: /paintings/
 title: Paintings
-description: A selection of my paintings and sketches.
+description: A collection of my paintings and sketches.
 nav: false
 ---
 
-I have enjoyed painting and sketching since childhood. This page is a small collection of my work.
-
-More Artwork will be added soon.
+>I have enjoyed painting and sketching since childhood. This page is a small collection of my work.
+> More Artwork will be added soon.
 
 ## Forest on Mini Canvas
 
