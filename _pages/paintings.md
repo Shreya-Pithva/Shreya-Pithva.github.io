@@ -47,4 +47,9 @@ nav: false
     <figcaption style="margin-top: 8px; text-align: center;">House in the Sky</figcaption>
   </figure>
 
+  <figure style="margin: 0;">
+  <img src="/assets/img/paintings/Milky_way.jpg" alt="Milky Way" style="width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 8px; text-align: center;">Milky Way</figcaption>
+</figure>
+
 </div>
