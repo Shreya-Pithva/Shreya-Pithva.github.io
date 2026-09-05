@@ -8,7 +8,7 @@ nav_order: 2
 calendar: true
 ---
 
-### Physics and Mathematics Tutor at [QUAZAR](https://www.quazared.com/)
+### Physics and Mathematics Tutor, [QUAZAR](https://www.quazaredu.com/)
 
 *February 2026 – Present*
 
