@@ -56,6 +56,7 @@ This page is where I will share some of my favourite moments from travelling, tr
 </p>
 
 
+# 2026 Treks
 <figure style="margin: 24px 0 0;">
   <img src="/assets/img/Little-adventure/Trek_photo_1.jpg" alt="Trekking in the Himalayas" style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 8px; text-align: center;">A trek in the Himalayas.</figcaption>
