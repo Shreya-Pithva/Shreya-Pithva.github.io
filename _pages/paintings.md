@@ -21,18 +21,18 @@ nav: false
   </figure>
 
   <figure style="margin: 0;">
-    <img src="/assets/img/paintings/G_1.jpg" alt="Portrait Sketch" style="width: 100%; height: auto; border-radius: 8px;">
-    <figcaption style="margin-top: 8px; text-align: center;">Portrait Sketch</figcaption>
+    <img src="/assets/img/paintings/G_1.jpg" alt="Girl with Glasses" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">Girl with Glasses</figcaption>
   </figure>
 
   <figure style="margin: 0;">
-    <img src="/assets/img/paintings/G_2.jpg" alt="Face Sketch" style="width: 100%; height: auto; border-radius: 8px;">
-    <figcaption style="margin-top: 8px; text-align: center;">Face Sketch</figcaption>
+    <img src="/assets/img/paintings/G_2.jpg" alt="Monochrome Portrait" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">Monochrome Portrait</figcaption>
   </figure>
 
   <figure style="margin: 0;">
-    <img src="/assets/img/paintings/Landscape.jpg" alt="Landscape" style="width: 100%; height: auto; border-radius: 8px;">
-    <figcaption style="margin-top: 8px; text-align: center;">Landscape</figcaption>
+    <img src="/assets/img/paintings/Landscape.jpg" alt="Sunset Landscape" style="width: 100%; height: auto; border-radius: 8px;">
+    <figcaption style="margin-top: 8px; text-align: center;">Sunset Landscape</figcaption>
   </figure>
 
   <figure style="margin: 0;">
