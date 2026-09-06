@@ -34,7 +34,7 @@ Snooker has helped me build focus and patience. I was fortunate enough to win me
 </div>
 
 <p style="text-align: center; margin-top: 8px;">
-This is me playing Snooker. I know photos could have been better !!!!
+That's me playing Snooker. I know photos could have been better !!!!
 I will try getting good ones before I leave the campus.
 </p>
 
@@ -59,7 +59,7 @@ This page is where I will share some of my favourite moments from travelling, tr
 ### 2026 Treks
 <figure style="margin: 24px 0 0;">
   <img src="/assets/img/Little-adventure/Trek_photo_1.jpg" alt="Trekking in the Himalayas" style="width: 100%; height: auto; border-radius: 8px;">
-  <figcaption style="margin-top: 8px; text-align: center;">A trek in the Himalayas.</figcaption>
+  <figcaption style="margin-top: 8px; text-align: center;">A trek in the Himalayas. (The horse was a paid actor for the pic (joking))</figcaption>
 </figure>
 
 <p style="font-size: 1.15em; margin-top: 16px;">
