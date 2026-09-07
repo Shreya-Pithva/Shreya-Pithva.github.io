@@ -36,12 +36,13 @@ cv:
 
       - institution: Silver Bell Public School
         location: Bhavnagar, Gujarat, India
+        url: https://silverbellspublicschool.org/
         area: Science
         studyType: Higher Secondary Education
         start_date: 2020
         end_date: May 2022
         highlights:
-          - Completed higher secondary education with Physics, Chemistry, and Mathematics.
+          - Completed higher secondary education with Computer Science, Physics, Chemistry, and Mathematics.
           
 
     Experience:
