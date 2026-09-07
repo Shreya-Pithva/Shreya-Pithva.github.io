@@ -203,13 +203,68 @@ cv:
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Quantum Information Scrambling and the Hayden–Preskill Protocol
+        summary: MS thesis project studying quantum information scrambling and information recovery in connection with Hawking radiation and the black-hole information paradox.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Quantum circuits and many-body quantum systems
+          - Out-of-time-order correlators (OTOCs)
+          - Hayden–Preskill protocol and imperfect decoding
+        start_date: 2026-01-01
+        end_date: 2027-05-31
+
+      - name: Quantum Non-Demolition Measurements
+        summary: Studied quantum measurement and atom–cavity interactions under Prof. Abhishek Dhar at ICTS.
+        highlights:
+          - Quantum open systems
+          - Photon-counting dynamics
+          - Numerical simulations of measurement processes
+        start_date: 2025-01-01
+        end_date: 2026-01-01
+
+      - name: Scalar phi^4 Theory Using Tensor Networks
+        summary: Studied scalar phi^4 theory in (1+1) dimensions using tensor-network methods under Prof. Aninda Sinha.
+        highlights:
+          - Density-matrix renormalization group (DMRG)
+          - Infinite DMRG (iDMRG)
+          - Matrix-product states and TeNPy
+        start_date: 2023-08-01
+        end_date: 2024-05-31
+
+      - name: Quantum Simulation of Jaynes–Cummings and Rabi Models
+        summary: Simulated Jaynes–Cummings and quantum Rabi models using Qiskit and Mathematica.
+        highlights:
+          - Quantum phase estimation
+          - Variational quantum eigensolver
+          - Suzuki–Trotter time evolution
+        start_date: 2023-06-01
+        end_date: 2023-08-31
+
+      - name: Accreting Supermassive Black Holes
+        summary: Conducted a computational and literature study of accreting supermassive black holes under Prof. Prajval Shastri at the Raman Research Institute.
+        highlights:
+          - Multiwavelength S7 data analysis
+          - Active galactic nuclei and astrophysical jets
+          - Nuclear environments and star formation
+        start_date: 2025-01-01
+        end_date: 2025-12-31
+
+      - name: Nonlinear Photonics and Raman Fibers
+        summary: Explored nonlinear photonics and Raman-fiber systems through guided reading and practical experiments under Prof. S. Supradeepa at CeNSE, IISc.
+        highlights:
+          - Nonlinear optical phenomena
+          - Raman-fiber systems
+          - Practical laboratory experiments
+        start_date: 2025-01-01
+        end_date: 2025-12-31
+
+      - name: Exploring the Distribution of Gaussian Random Variables
+        summary: Investigated how changes in Galton-board parameters affect the resulting probability distributions as part of the International Physicists’ Tournament.
+        highlights:
+          - Studied the effects of peg size, bead type, and vibrations
+          - Compared experimental distributions with binomial and Gaussian models
+          - Learned 3D modelling and 3D printing
+        start_date: 2024-01-01
+        end_date: 2024-12-31
 
     References:
       - name: Professor John Doe
