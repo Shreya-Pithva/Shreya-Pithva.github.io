@@ -70,8 +70,8 @@ cv:
       - company: Raman Research Institute
         position: Research Student
         location: Bengaluru, India
-        start_date: 2025
-        end_date: 2025
+        start_date: 2023
+        end_date: 2024
         summary: Conducted a computational and literature study of accreting supermassive black holes under Prof. Prajval Shastri.
         highlights:
           - Analysed multiwavelength S7 data related to active galactic nuclei and jets.
@@ -80,8 +80,8 @@ cv:
       - company: Centre for Nano Science and Engineering, Indian Institute of Science
         position: Research Student
         location: Bengaluru, India
-        start_date: 2025
-        end_date: 2025
+        start_date: May 2024
+        end_date: July 2024
         summary: Worked on nonlinear photonics and Raman-fiber systems under Prof. S. Supradeepa.
         highlights:
           - Studied nonlinear photonics concepts through guided reading.
@@ -90,7 +90,7 @@ cv:
       - company: QUAZAR
         position: Physics and Mathematics Tutor
         location: Online
-        start_date: 2025
+        start_date: 2026
         end_date: Present
         summary: Tutor high school students in Physics and Mathematics.
         highlights:
@@ -100,19 +100,19 @@ cv:
     Volunteer:
       - company: TQC 2025 Conference
         position: Conference Volunteer
-        location: Indian Institute of Science, Bengaluru, India
-        start_date: 2025
-        end_date: 2025
+        location: Bengaluru, India
+        start_date: 15 Sep 
+        end_date: 19 Sep
         summary: Volunteered at the TQC 2025 conference held at the Indian Institute of Science.
         highlights:
           - Assisted with conference organisation and coordination.
           - Got to meet amazing researchers from different countries working on Quantum Computing.
 
-      - company: Indian Institute of Science Open Day
+      - company: Indian Institute of Science Open Day 2024 & 2025
         position: Open Day Volunteer
-        location: Indian Institute of Science, Bengaluru, India
-        start_date: 2025
-        end_date: 2025
+        location: Bengaluru, India
+        start_date: 7th March
+        end_date: 
         summary: Volunteered during the Indian Institute of Science Open Day.
         highlights:
           - Helped visitors learn about the research and activities of the ASTRAE club at IISc.
