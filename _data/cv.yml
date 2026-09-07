@@ -31,7 +31,6 @@ cv:
         score: ""
         courses: "Physics Major with Quantum Technology Minor"
         highlights:
-          - Completed a BS (Research) in Physics with a minor in Quantum Technology.
           - Currently pursuing an MS in Physics, with expected graduation in May 2027.
 
       - institution: Silver Bell Public School
@@ -39,8 +38,9 @@ cv:
         url: https://silverbellspublicschool.org/
         area: Science
         studyType: Higher Secondary Education
-        start_date: 2020
+        start_date: April 2020
         end_date: May 2022
+        score: ""
         highlights:
           - Completed higher secondary education with Computer Science, Physics, Chemistry, and Mathematics.
           
@@ -106,7 +106,7 @@ cv:
         end_date: 19 Sep
         summary: Volunteered at the TQC 2025 conference held at the Indian Institute of Science.
         highlights:
-          - Assisted with conference organisation and coordination.
+          - Assisted with conference organisation during poster presentations and coordination.
           - Got to meet amazing researchers from different countries working on Quantum Computing.
 
       - company: Indian Institute of Science Open Day 2024 & 2025
@@ -115,24 +115,25 @@ cv:
         start_date: 7th march
         summary: Volunteered during the Indian Institute of Science Open Day.
         highlights:
-          - Helped visitors learn about the research and activities of the ASTRAE club at IISc.
+          - Helped visitors learn about the astronomy and activities of the ASTRAE club at IISc.
           - Assisted with visitor interaction and event coordination.
 
     Awards:
-      - title: QC RISE fellowship under NQM (National Quantum Mission) 
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 2026 - 2027
-        awarder: 
-        url: 
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: QC RISE Internship Program
+        start_date: 2026
+        end_date: 2027
+        awarder: Foundation for QC Innovation (FQCI), DST–NQM Hub for Quantum Computing at IISc Bengaluru
+        url: https://qcinnovation.co.in/internship-program/
+        summary: Selected for the QC RISE (Research Internship & Skill Enhancement) Internship Program in Quantum Computing, an initiative of the Foundation for QC Innovation under the National Quantum Mission of the Department of Science and Technology, Government of India. The program provides hands-on research experience, mentorship, and a monthly stipend of ₹15,000.
 
-      - title: Mallika Science Fellowship for Women
-        authors:
-          - "German Physical Society"
-        date: 2022
-        awarder: 
-        summary: Awarded for outstanding scientific achievement
+      - title: Mallika Fellowships for Women in Science and Engineering
+        authors: ""
+        start_date: Oct 2022
+        end_date: May 2026
+        url: https://bs-ug.iisc.ac.in/fellowships/mallika-women-in-science
+        awarder: Ms Nirmala Jay Pullur
+        summary: Encourages highly talented women students to pursue careers in science and engineering. It is given based on the highest rank in the entrance exam / Highest TGPA in the first term or semester.
+
 
       - title: S.N.Bhatt Fellowship at ICTS 
         authors:
