@@ -119,28 +119,26 @@ cv:
           - Assisted with visitor interaction and event coordination.
 
     Awards:
-      - title: QC RISE Internship Program
-        start_date: 2026
-        end_date: 2027
+      - title: QC RISE Internship Program (Sep 2026 - Feb 2027)
+        date: ""
         awarder: Foundation for QC Innovation (FQCI), DST–NQM Hub for Quantum Computing at IISc Bengaluru
         url: https://qcinnovation.co.in/internship-program/
         summary: Selected for the QC RISE (Research Internship & Skill Enhancement) Internship Program in Quantum Computing, an initiative of the Foundation for QC Innovation under the National Quantum Mission of the Department of Science and Technology, Government of India. The program provides hands-on research experience, mentorship, and a monthly stipend of ₹15,000.
 
-      - title: Mallika Fellowships for Women in Science and Engineering
+      - title: Mallika Fellowships for Women in Science and Engineering (Oct 2022- July 2026)
         authors: ""
-        start_date: Oct 2022
-        end_date: May 2026
+        date: ""
         url: https://bs-ug.iisc.ac.in/fellowships/mallika-women-in-science
         awarder: Ms Nirmala Jay Pullur
         summary: Encourages highly talented women students to pursue careers in science and engineering. It is given based on the highest rank in the entrance exam / Highest TGPA in the first term or semester.
 
 
-      - title: S.N.Bhatt Fellowship at ICTS 
+      - title: S.N.Bhatt Fellowship at ICTS (Summer 2026)
         authors:
-          - "German Physical Society"
-        date: 2026
-        awarder: 
-        summary: Awarded for outstanding scientific achievement
+        date: ""
+        url: https://www.icts.res.in/academic/summer-research-program/2026
+        awarder: ICTS (International Centre for Theoretical Sciences)
+        summary: International Centre for Theoretical Sciences (ICTS-TIFR), Tata Institute of Fundamental Research, Bengaluru invites applications from academically bright and motivated students for the ICTS - S. N. Bhatt Memorial Excellence Fellowship Program 
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
