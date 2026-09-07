@@ -98,15 +98,25 @@ cv:
           - Helped students prepare for Class 11–12 examinations and the National Standard Examination in Physics.
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: TQC 2025 Conference
+        position: Conference Volunteer
+        location: Indian Institute of Science, Bengaluru, India
+        start_date: 2025
+        end_date: 2025
+        summary: Volunteered at the TQC 2025 conference held at the Indian Institute of Science.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Assisted with conference organisation and coordination.
+          - Got to meet amazing researchers from different countries working on Quantum Computing.
+
+      - company: Indian Institute of Science Open Day
+        position: Open Day Volunteer
+        location: Indian Institute of Science, Bengaluru, India
+        start_date: 2025
+        end_date: 2025
+        summary: Volunteered during the Indian Institute of Science Open Day.
+        highlights:
+          - Helped visitors learn about the research and activities of the ASTRAE club at IISc.
+          - Assisted with visitor interaction and event coordination.
 
     Awards:
       - title: Nobel Prize in Physics
