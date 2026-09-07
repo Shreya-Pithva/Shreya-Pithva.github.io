@@ -112,27 +112,33 @@ cv:
       - company: Indian Institute of Science Open Day 2024 & 2025
         position: Open Day Volunteer
         location: Bengaluru, India
-        start_date: 7th March
-        end_date: 
+        start_date: 7th march
         summary: Volunteered during the Indian Institute of Science Open Day.
         highlights:
           - Helped visitors learn about the research and activities of the ASTRAE club at IISc.
           - Assisted with visitor interaction and event coordination.
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: QC RISE fellowship under NQM (National Quantum Mission) 
         authors:
           - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        date: 2026 - 2027
+        awarder: 
+        url: 
         summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
+      - title: Mallika Science Fellowship for Women
         authors:
           - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
+        date: 2022
+        awarder: 
+        summary: Awarded for outstanding scientific achievement
+
+      - title: S.N.Bhatt Fellowship at ICTS 
+        authors:
+          - "German Physical Society"
+        date: 2026
+        awarder: 
         summary: Awarded for outstanding scientific achievement
 
     Publications:
