@@ -45,42 +45,57 @@ cv:
           
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Indian Institute of Science
+        position: MS Thesis Researcher
+        location: Bengaluru, India
+        start_date: 2026
+        end_date: Present
+        summary: Working on quantum information scrambling and the Hayden–Preskill protocol under Prof. C. M. Chandrashekar.
         highlights:
-          - Relativity
-          - Description 2.
+          - Studying quantum scrambling, information recovery, and the black-hole information paradox.
+          - Using quantum circuits and out-of-time-order correlators to study scrambling.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          
+      - company: Indian Institute of Science
+        position: BS Research Thesis Student
+        location: Bengaluru, India
+        start_date: 2025
+        end_date: 2026
+        summary: Studied scalar phi^4 theory in (1+1) dimensions using tensor-network methods under Prof. Aninda Sinha.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Used density-matrix renormalization group and infinite density-matrix renormalization group methods.
+          - Implemented numerical simulations using matrix-product-state techniques and TeNPy.
+          
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Raman Research Institute
+        position: Research Student
+        location: Bengaluru, India
+        start_date: 2025
+        end_date: 2025
+        summary: Conducted a computational and literature study of accreting supermassive black holes under Prof. Prajval Shastri.
+        highlights:
+          - Analysed multiwavelength S7 data related to active galactic nuclei and jets.
+          - Studied the connection between the nuclear environment of galaxies and star formation.
+          
+      - company: Centre for Nano Science and Engineering, Indian Institute of Science
+        position: Research Student
+        location: Bengaluru, India
+        start_date: 2025
+        end_date: 2025
+        summary: Worked on nonlinear photonics and Raman-fiber systems under Prof. S. Supradeepa.
+        highlights:
+          - Studied nonlinear photonics concepts through guided reading.
+          - Performed practical laboratory experiments involving Raman-fiber systems.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: QUAZAR
+        position: Physics and Mathematics Tutor
+        location: Online
+        start_date: 2025
+        end_date: Present
+        summary: Tutor high school students in Physics and Mathematics.
+        highlights:
+          - Provided more than 100 hours of teaching and mentoring.
+          - Helped students prepare for Class 11–12 examinations and the National Standard Examination in Physics.
 
     Volunteer:
       - company: People's Climate March
