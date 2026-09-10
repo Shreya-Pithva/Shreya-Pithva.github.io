@@ -165,22 +165,22 @@ cv:
 
     Certificates:
       - name: Summer School in Optics and Photonics 2024
-        date: 2024
+        date: 2024-04-02
         issuer: IISc
         icon: fa-solid fa-location-dot
 
       - name: MATLAB course
-        date: 2024
+        date: 2024-04-02
         issuer: MATLAB
         icon: fa-solid fa-tag
 
       - name: "Big Bang to Dark Energy — Coursera"
-        date: 2023
+        date: 2023-04-02
         issuer: University of Tokyo
         icon: fa-solid fa-tag
 
       - name: "How Things Work: An Introduction to Physics — Coursera"
-        date: 2023
+        date: 2023-04-02
         issuer: University of Virginia
         icon: fa-solid fa-envelope
 
