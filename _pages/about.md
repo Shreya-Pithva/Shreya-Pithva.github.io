@@ -30,6 +30,9 @@ latest_posts:
 I completed my BS (Research) in Physics, with a minor in Quantum Technology, at the Indian Institute of Science (IISc), Bangalore. I am currently pursuing an MS in Physics at IISc.
 
 My research interests lie in theoretical and computational physics, particularly quantum information, quantum computation, quantum many-body physics, and fundamental questions in physics. My master's thesis focuses on quantum information scrambling and the Hayden–Preskill protocol, with the aim of studying information recovery in connection with Hawking radiation and the black-hole information paradox. I enjoy understanding how mathematical ideas can be used to describe and explore physical phenomena.
+
+I truly believe in this quote by Richard Feynman:
+
 > “I was an ordinary person who studied hard. There are no miracle people.”
 
 > — [Richard Feynman](https://www.goodreads.com/quotes/8995845-i-was-an-ordinary-person-who-studied-hard-there-are)
