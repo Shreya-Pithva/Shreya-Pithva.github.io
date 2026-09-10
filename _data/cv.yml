@@ -113,6 +113,7 @@ cv:
         position: Open Day Volunteer
         location: Bengaluru, India
         start_date: 7th march
+        end_date: ""
         summary: Volunteered during the Indian Institute of Science Open Day.
         highlights:
           - Helped visitors learn about the astronomy and activities of the ASTRAE club at IISc.
