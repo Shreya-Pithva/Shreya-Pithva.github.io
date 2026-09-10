@@ -29,8 +29,10 @@ latest_posts:
 
 I completed my BS (Research) in Physics, with a minor in Quantum Technology, at the Indian Institute of Science (IISc), Bangalore. I am currently pursuing an MS in Physics at IISc.
 
-My research interests lie in theoretical and computational physics, particularly quantum information, quantum computation, quantum many-body physics, and fundamental questions in physics. My master's thesis focuses on quantum information scrambling and the Hayden–Preskill protocol, with the aim of studying information recovery in connection with Hawking radiation and the black-hole information paradox.
+My research interests lie in theoretical and computational physics, particularly quantum information, quantum computation, quantum many-body physics, and fundamental questions in physics. My master's thesis focuses on quantum information scrambling and the Hayden–Preskill protocol, with the aim of studying information recovery in connection with Hawking radiation and the black-hole information paradox. I enjoy understanding how mathematical ideas can be used to describe and explore physical phenomena.
+> “I was an ordinary person who studied hard. There are no miracle people.”
 
-I have worked on quantum non-demolition measurements, tensor-network simulations, quantum simulation, and quantum open systems. I am also a QC RISE Fellow under the National Quantum Mission and a recipient of the S. N. Bhatt Memorial Excellence Fellowship 2026.
+> — [Richard Feynman](https://www.goodreads.com/quotes/8995845-i-was-an-ordinary-person-who-studied-hard-there-are)
+
 
 This website contains my research projects, academic updates, and a little about my interests beyond physics.
