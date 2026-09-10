@@ -163,19 +163,24 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Summer School in Optics and Photonics 2024
+        date: 2024
+        issuer: IISc
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: MATLAB course
+        date: 2024
+        issuer: MATLAB
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: "Big Bang to Dark Energy" Coursera
+        date: 2023
+        issuer: University of Tokyo
+        icon: fa-solid fa-envelope
+
+      - name: "How things work: An introduction to Physics" Coursera
+        date: 2023
+        issuer: University of Virginia
         icon: fa-solid fa-envelope
 
     Projects:
