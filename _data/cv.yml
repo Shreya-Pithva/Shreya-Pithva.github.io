@@ -174,12 +174,12 @@ cv:
         issuer: MATLAB
         icon: fa-solid fa-tag
 
-      - name: "Big Bang to Dark Energy" Coursera
+      - name: "Big Bang to Dark Energy — Coursera"
         date: 2023
         issuer: University of Tokyo
-        icon: fa-solid fa-envelope
+        icon: fa-solid fa-tag
 
-      - name: "How things work: An introduction to Physics" Coursera
+      - name: "How Things Work: An Introduction to Physics — Coursera"
         date: 2023
         issuer: University of Virginia
         icon: fa-solid fa-envelope
