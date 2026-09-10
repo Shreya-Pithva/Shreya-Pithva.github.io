@@ -33,7 +33,7 @@ My research interests lie in theoretical and computational physics, particularly
 
 I truly believe in this quote by Richard Feynman:
 
-> “I was an ordinary person who studied hard. There are no miracle people.”
+> “I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing, and they learn all this stuff, but they’re just people ”
  — [Richard Feynman](https://www.goodreads.com/quotes/8995845-i-was-an-ordinary-person-who-studied-hard-there-are)
 
 
