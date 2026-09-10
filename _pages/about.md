@@ -26,6 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+a[href$="/news/"] {
+  text-transform: capitalize;
+}
+</style>
 
 I completed my BS (Research) in Physics, with a minor in Quantum Technology, at the Indian Institute of Science (IISc), Bangalore. I am currently pursuing an MS in Physics at IISc.
 
