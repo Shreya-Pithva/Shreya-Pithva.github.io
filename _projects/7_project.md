@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: S7 Project
+description: Supermassive Black Holes in the S7 Survey
 img: assets/img/4.jpg
 importance: 1
 category: work
