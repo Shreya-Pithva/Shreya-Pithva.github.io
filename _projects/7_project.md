@@ -3,7 +3,7 @@ layout: page
 title: project_7
 description: ""
 img: assets/img/4.jpg
-importance: 1
+importance: 2
 category: "Short Term Projects"
 related_publications: true
 ---
