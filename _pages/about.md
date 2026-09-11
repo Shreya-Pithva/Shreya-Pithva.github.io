@@ -8,9 +8,9 @@ profile:
   align: right
   image: "Shreya_photo_1.jpg"
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Indian Institute of Science (IISc)</p>
-    <p>Bangalore</p>
+ # more_info: >
+    #<p>Indian Institute of Science (IISc)</p>
+    #<p>Bangalore</p>
     
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
