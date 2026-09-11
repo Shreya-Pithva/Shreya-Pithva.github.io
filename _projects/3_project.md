@@ -5,7 +5,7 @@ description: Quantum Information Scrambling and the Hayden–Preskill Protocol
 img: assets/img/7.jpg
 redirect: https://www.wikipedia.org/
 importance: 3
-category: work
+category: "Long Term Projects"
 ---
 
 Every project has a beautiful feature showcase page.
