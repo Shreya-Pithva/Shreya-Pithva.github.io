@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Tensor-Network Study of ϕ⁴ Theory in (1+1) Dimensions
+description: ""
 img: assets/img/3.jpg
 importance: 2
 category: work
