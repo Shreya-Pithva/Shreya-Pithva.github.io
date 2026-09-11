@@ -11,7 +11,7 @@ horizontal: false
 <p style="font-size: 1.3em; margin-top: -1rem;">
 A brief overview of all my Long and short term projects.
 </p>
-A brief overview of all my Long and short term projects.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
