@@ -3,7 +3,7 @@ layout: page
 title: S7 Project
 description: Supermassive Black Holes in the S7 Survey
 img:
-importance: 4
+importance: "Long Term Projects"
 category: work
 ---
 
