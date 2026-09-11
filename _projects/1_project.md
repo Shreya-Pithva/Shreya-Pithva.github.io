@@ -4,7 +4,7 @@ title: Quantum Non-Demolition counting in a cavity
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: "Long Term Projects"
 related_publications: true
 ---
 
