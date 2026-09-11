@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tensor-Network Study of ϕ⁴ Theory in (1+1) Dimensions
-description: ""
+title: BS Thesis
+description: Tensor-Network Study of ϕ⁴ Theory in (1+1) Dimensions
 img: assets/img/3.jpg
 importance: 2
 category: work
