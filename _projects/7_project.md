@@ -1,10 +1,10 @@
 ---
 layout: page
-title: S7 Project
-description: Supermassive Black Holes in the S7 Survey
+title: project_7
+description: ""
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
