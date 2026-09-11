@@ -2,13 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A brief overview of all my Long and short term projects.
+description: ""
 nav: true
 nav_order: 1
 display_categories: ["Long Term Projects", "Short Term Projects"]
 horizontal: false
 ---
-
+A brief overview of all my Long and short term projects.
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
