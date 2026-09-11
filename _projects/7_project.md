@@ -4,7 +4,7 @@ title: project_7
 description: ""
 img: assets/img/4.jpg
 importance: 1
-category: fun
+category: "Short Term Projects"
 related_publications: true
 ---
 
