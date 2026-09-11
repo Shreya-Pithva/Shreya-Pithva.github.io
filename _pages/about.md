@@ -39,8 +39,13 @@ I enjoy understanding how mathematical ideas can be used to describe and explore
 
 I truly believe in this quote by Richard Feynman:
 
-> “I was an ordinary person who studied hard. There are no miracle people. ”
- — [Richard Feynman](https://www.goodreads.com/quotes/8995845-i-was-an-ordinary-person-who-studied-hard-there-are)
+<p style="font-size: 0.95em; font-style: italic; margin-top: 1.5rem;">
+“I was an ordinary person who studied hard. There are no miracle people.”
+<br>
+<span style="font-style: normal;">
+— <a href="https://www.goodreads.com/quotes/8995845-i-was-an-ordinary-person-who-studied-hard-there-are" target="_blank">Richard Feynman</a>
+</span>
+</p>
 
 
 This website contains my research projects, academic updates, and a little about my interests beyond physics.
