@@ -5,7 +5,7 @@ permalink: /projects/
 description: A brief overview of all my Long and short term projects.
 nav: true
 nav_order: 1
-display_categories: [Long Term, Short Term]
+display_categories: [work, fun]
 horizontal: false
 ---
 
