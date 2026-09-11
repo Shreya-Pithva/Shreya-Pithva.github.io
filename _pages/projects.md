@@ -8,6 +8,9 @@ nav_order: 1
 display_categories: ["Long Term Projects", "Short Term Projects"]
 horizontal: false
 ---
+<p style="font-size: 1.3em; margin-top: -1rem;">
+A collection of my paintings and sketches.
+</p>
 A brief overview of all my Long and short term projects.
 <!-- pages/projects.md -->
 <div class="projects">
