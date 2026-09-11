@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: S7 Project
+description: Supermassive Black Holes in the S7 Survey
 img:
-importance: 3
+importance: 4
 category: work
 ---
 
