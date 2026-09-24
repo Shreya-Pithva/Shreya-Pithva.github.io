@@ -6,7 +6,7 @@ cv:
   image: "Shreya_pithva_1.jpg"
   summary: "Master's student in Physics interested in theoretical physics, quantum information, quantum computing, and quantum field theory."
 
-  social_networks:
+  social_networks:  
     - network: GitHub
       username: Shreya-Pithva
     - network: LinkedIn
@@ -249,9 +249,9 @@ cv:
         start_date: 2024-01-01
         end_date: 2024-12-31
 
-  %References:
-       %- name: Professor 
-        % icon: fa-solid fa-laptop
-         %reference: Project
- 
+      # References:
+    #   - name: Professor
+    #     icon: fa-solid fa-laptop
+    #     reference: Project
+     
       
