@@ -5,7 +5,7 @@ permalink: /projects/
 description: ""
 nav: true
 nav_order: 1
-display_categories: #["Long Term Projects", "Short Term Projects"]
+display_categories: ["Long Term Projects", "Short Term Projects"]
 horizontal: false
 ---
 <p style="font-size: 1.3em; margin-top: -1rem;">
